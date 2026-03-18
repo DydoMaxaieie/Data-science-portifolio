@@ -22,6 +22,6 @@ Building practical solutions and continuously improving through hands-on project
 
 🚧 Projects will be added daily as part of a 7-day consistency challenge.
 
-📈 Progress
+📈 Progress 
 
 Day 1: Repository created
