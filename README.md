@@ -2,7 +2,7 @@ Data Science Portfolio
 
 👤 About Me
 
-Aspiring Data Scientist with a focus on Machine Learning and MLOps.
+Data Scientist with a focus on Machine Learning and MLOps.
 Building practical solutions and continuously improving through hands-on projects.
 
 🎯 Objectives
