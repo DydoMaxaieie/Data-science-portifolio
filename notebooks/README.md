@@ -1,3 +1,4 @@
-Notebooks
 
-This folder contains Jupyter notebooks for data analysis and machine learning projects.
+## 📂 Projects
+
+- Air Quality Prediction (Zindi Competition)
